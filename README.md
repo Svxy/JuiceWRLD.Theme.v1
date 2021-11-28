@@ -25,6 +25,6 @@ btw if u want u can change the colors n png's :p
 
 # Showcase:
 
-![Showcase1]()
+![Showcase1](https://github.com/Svxy/JuiceWRLD.Theme.v1/blob/main/theme%20showcase/showcase2.png?raw=true)
 
-![Showcase2]()
+![Showcase2](https://github.com/Svxy/JuiceWRLD.Theme.v1/blob/main/theme%20showcase/showcase1.png?raw=true)
